@@ -49,9 +49,6 @@
 
 ## PDF on JetBrains OSS Power-Ups
 
-PDF was presented on one of the episodes of OSS Power-Ups hosted by JetBrains. Huge thanks for Matthias Koch and entire JetBrains team for giving me a chance to show QuestPDF. You are the best!
+This was presented on one of the episodes of OSS Power-Ups hosted by JetBrains. Huge thanks for Matthias Koch and entire JetBrains team for giving me a chance to show QuestPDF. You are the best!
 
-<a href="https://www.youtube.com/watch?v=-iYvZvpLX0g">
-    <img src="https://github.com/QuestPDF/QuestPDF-Documentation/blob/main/docs/public/jetbrains-oss-powerups-youtube.png?raw=true" width="600px">
-</a>
 
